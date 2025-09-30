@@ -3,7 +3,7 @@
 🎓 İstanbul Topkapı Üniversitesi - Bilgisayar Programcılığı (Staj Aşamasındayım)  
 💻 Front-End Development üzerine odaklanıyorum  
 🌱 React, JavaScript ve modern web teknolojileri öğreniyorum  
-🚀 Amacım: kullanıcı dostu ve performanslı web uygulamaları geliştirmek  
+🚀 Amacım: Kullanıcı dostu ve performanslı web uygulamaları geliştirmek  
 
 ---
 
@@ -17,9 +17,7 @@
 ## 📌 Öne Çıkan Projelerim  
 - 🌍 [Kişisel Portfolyo Sitesi](#)  
 - ✅ [Todo App (React)](#)  
-- ☁️ [Hava Durumu Uygulaması](#)  
-
-> Not: Projelerin linklerini buradaki `#` yerine eklemelisin.  
+- ☁️ [Hava Durumu Uygulaması](#)   
 
 ---
 
@@ -30,7 +28,7 @@
 ---
 
 ## 📫 Bana Ulaşın  
-- 📧 E-posta: devrim.uysal34@gmail.com  
+- 📧 E-posta: umutdevrimuysal@stu.topkapi.edu.tr
 - 💼 LinkedIn: [linkedin.com/in/umut-d-uysal-109001313](https://www.linkedin.com/in/umut-d-uysal-109001313/)  
 - 🐦 X: [x.com/devrimuysal34](https://x.com/devrimuysal34)
 
